@@ -1,4 +1,0 @@
-userEmail,status,referenceNumber,applicationNumber,permitType,address,date,owner,action
-user1@test.com,Pending,B1234567,B1456-4524,Building,"123 Edmonton St",2025-11-15,"John Doe","Upload Required"
-user1@test.com,Unpaid,E2345678,E2562-4536,Electrical,"456 Calgary St",2025-12-18,"Jane Doe","Pay Invoice"
-user2@test.com,Unpaid,P34567890,P2002-4536,Plumbing,"432 Calgary St",2025-11-18,"James Doe","Pay Invoice"
